@@ -1,7 +1,7 @@
 {
   "name": "@matchmakerjs/react-form-state",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Reactive forms for react",
   "main": "dist/index.js",
   "files": [
     "dist/**/*"
@@ -16,8 +16,12 @@
     "type": "git",
     "url": "git+https://github.com/matchmakerjs/react-form-state.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "React",
+    "Form",
+    "Reactive"
+  ],
+  "author": "Olaleye Afolabi",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/matchmakerjs/react-form-state/issues"
@@ -41,6 +45,6 @@
     "typescript": "4.4.3"
   },
   "peerDependencies": {
-    "react": "^16.8.0"
+    "react": ">=16.8.0"
   }
 }
